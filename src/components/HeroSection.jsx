@@ -22,7 +22,7 @@ export const HeroSection = () => {
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             
-            I’m Aashi Manker, a passionate full-stack developer and third-year IT student. I build modern, responsive web apps with the MERN stack and a deep interest in blending tech with wellness, automation, and security.
+            I’m Aashi Manker, a passionate full-stack developer and final-year IT student. I build modern, responsive web apps with the MERN stack and a deep interest in blending tech with wellness, automation, and security.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
